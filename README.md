@@ -53,8 +53,8 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 ## Notebook Content
 
 - [ ] Notebook includes...
-  - [ ] Data understanding
-  - [ ] Data preparation
+  - [x] Data understanding
+  - [x] Data preparation
   - [ ] Modeling
   - [ ] Evaluation
 
